@@ -46,28 +46,6 @@ input {
   text-align: center;
   font-weight: 900;
   margin: 15px 30px;
-}
-select {
-  font-size: 20px;
-  font-weight: 500;
-  padding: 5px 7px;
-  border: 2px solid;
-  border-radius: 4px;
-  cursor: pointer;
-  font-weight: 600;
-  box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.3);
-}
-option {
-  font-weight: 600;
-}
-textarea {
-  box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.3);
-  background: #eee;
-  border: 2px solid;
-  border-radius: 5px;
-}
-textarea:focus {
-  outline: none;
 } li{
   list-style:none;
   transform:translateX(-50px);
